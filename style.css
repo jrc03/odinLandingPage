@@ -73,16 +73,13 @@ height: 30px;
 width: 100px;
 
 }
-/* .imgPri {
- 
-
-    border: #e5e7eb 2px solid;
-} */
-img{
-   
+#imgPri {
     width: 500px;
     height: 300px;
+
+   
 }
+
 #celtoButton{
 border: #3882f6 2px solid;
 background-color: #3882f6;
